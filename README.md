@@ -3,6 +3,7 @@
 - [Java Convert int to byte Array](https://javadeveloperzone.com/java-basic/java-convert-int-to-byte-array/)
 - [Java Convert double to byte Array](https://javadeveloperzone.com/java-basic/java-convert-double-to-byte-array/)
 - [Java Convert long to byte Array](https://javadeveloperzone.com/java-basic/java-convert-long-to-byte-array/)
+- [Java Find Duplicate Objects](https://javadeveloperzone.com/java-basic/java-find-duplicate-objects-in-list/)
 ## Java Stream Examples
 - [Java Stream FlatMap Example](https://javadeveloperzone.com/java-basic/java-8-stream-flatmap-example/)
 - [Java Stream Sorting Example](https://javadeveloperzone.com/java-basic/java-8-stream-sorted-example/)
